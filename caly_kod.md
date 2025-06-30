@@ -1,6 +1,6 @@
 
 # 1.	Instalacja (Android, IOS)
-## Android
+## Android - 2
 
 ### Jak zainstalować aplikację z Google Play:
 #### 1. Otwórz Google Play:
