@@ -215,6 +215,37 @@ Dzięki tym funkcjom administrator ma pełną kontrolę nad tworzeniem, edytowan
 ![](<Kalendarz\PC\Admin\wydarzenie_admin2.png>)
 ![](<Kalendarz\PC\Admin\wydarzenie_admin3.png>)
 
+#### Powtarzające się wydarzenie
+Podczas tworzenia nowego wydarzenia w kalendarzu, administrator ma możliwość skorzystania z funkcji "Powtarzające się wydarzenie". Funkcja ta umożliwia automatyczne zaplanowanie wydarzenia, które będzie cyklicznie powtarzane w określonych dniach miesiąca.
+
+Aby dodać powtarzające się wydarzenie:
+
+* Przejdź do tworzenia nowego wydarzenia w kalendarzu.
+
+* Kliknij przycisk "Powtarzające się wydarzenie".
+
+* Wybierz dni miesiąca oraz okres, w jakim wydarzenie ma się powtarzać.
+
+Uwaga: Funkcja powtarzania wydarzenia jest dostępna wyłącznie podczas tworzenia nowego wydarzenia. Nie można jej zastosować do istniejących już wpisów w kalendarzu.
+
+![](<Kalendarz\PC\Admin\powtarzajace_wydarzenie.PNG>)
+
+#### Duplikowanie wydarzeń w ramach powtarzającego się wydarzenia
+
+W przypadku, gdy jednego dnia zaplanowane są dwa lub więcej wydarzeń (np. próba i koncert), które mają należeć do tego samego cyklu wydarzenia powtarzającego się, należy skorzystać z funkcji duplikowania wydarzenia.
+
+Aby dodać kolejne wydarzenie do cyklu powtarzającego się:
+
+* Utwórz pierwsze wydarzenie i zaznacz opcję "Powtarzające się wydarzenie".
+
+* Po zapisaniu wydarzenia, skorzystaj z funkcji duplikowania.
+
+* W skopiowanym wydarzeniu zmodyfikuj dane (np. tytuł, godziny, lokalizację), aby odpowiadały drugiemu elementowi cyklu.
+
+* Zapisz zmiany – nowe wydarzenie zostanie automatycznie przypisane do tego samego cyklu powtarzającego się.
+
+![](<Kalendarz\PC\Admin\duplikowanie.png>)
+
 #### Mobile
 
 ![](<Kalendarz\Mobile\Admin\wydarzenie_admin_mob1.png>)
@@ -407,6 +438,9 @@ Funkcja zarządzania użytkownikami umożliwia administratorowi podgląd oraz pe
 
 ![](<Admin\Uzytkownicy\uzytkownicy.png>)
 ![](<Admin\Uzytkownicy\uzytkownicy1-poprawione.png>)
+
+ccvvcxvx
+
 ![](<Admin\Uzytkownicy\uzytkownicy2-poprawione.png>)
 
 ## c. Zespoły
